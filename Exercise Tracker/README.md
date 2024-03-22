@@ -1,1 +1,2 @@
-# [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+# Exercise Tracker
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://replit.com/@ajzal/boilerplate-project-exercisetracker)
