@@ -27,6 +27,6 @@ This repository contains the projects and code completed as part of the Back End
    - Description: A microservice API that accepts file uploads and returns JSON metadata about the uploaded file, including its size.
 
 ## Show Certificate
-<a href="https://www.freecodecamp.org/certification/ajzal-dev/back-end-development-and-apis"><img src="https://cdn-icons-png.freepik.com/256/4102/4102692.png" alt="View Certificate" width="100" height="100" target="_blank></a>
+<a href="https://www.freecodecamp.org/certification/ajzal-dev/back-end-development-and-apis"><img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698985-icon-138-certificate-512.png" alt="View Certificate" width="100" height="100" target="_blank"></a>
 
 
